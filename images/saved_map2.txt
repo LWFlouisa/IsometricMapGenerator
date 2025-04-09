@@ -1,0 +1,30 @@
+                       VVVVVVV  .   .   . VVVVVVVVVV
+                        V .   .   .   .   .   .   . V
+                            .   .   .   .   .   .   .
+                              .   .   .   .   .   .   .
+                                .   .   .   .   .   .   .
+                                  .   .   .   .   .   .   .
+                                  V .   .   .   .   .   .   . V
+                                   VVVVVVVVV  .   .   . VVVVVVVV
+
+
+            TTTTTTT  .   .   . TTTTTTTTTT
+             T .   .   .   .   .   .   . T
+                 .   .   .   .   .   .   .
+                   .   .   .   .   .   .   .
+                     .   .   .   .   .   .   .
+                       .   .   .   .   .   .   . T
+                       T .   .   .   .   .   .   . T
+                        TTTTTTTTT  .   .   . TTTTTTTT
+
+
+QQQQQQQ  .   .   . QQQQQQQQQQ
+ Q .   .   .   .   .   .   . Q
+     .   .   .   .   .   .   .
+       .   .   .   .   .   .   .
+         .   .   .   .   .   .   .
+           .   .   .   .   .   .   .  
+           Q .   .   .   .   .   .   . Q
+            QQQQQQQQQ  .   .   . QQQQQQQQ
+
+
