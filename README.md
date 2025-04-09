@@ -1,0 +1,2 @@
+# IsometricMapGenerator
+Isometric map generator.
